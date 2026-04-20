@@ -31,4 +31,4 @@ Libraries: Pillow (PIL) for image processing
 # ⚖️ License
 Distributed under the MIT License. See LICENSE for more information.
 
-Developed by Muhammad Nabil Alfarizi Informatics Student at Telkom University
+Developed by Muhammad Nabil Alfarizi, Technology Information Student at Telkom University

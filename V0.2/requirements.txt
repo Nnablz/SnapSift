@@ -1,0 +1,7 @@
+customtkinter>=5.2.2
+Pillow>=10.2.0
+rawpy>=0.23.0
+# pygame>=2.5.0  # Optional: enables gamepad/controller support.
+#                # Install when a pre-built wheel for your Python version is available.
+#                # pip install pygame
+#                # App runs fully without it — gamepad support silently disables itself.

@@ -1,6 +1,9 @@
 # SnapSift
 SnapSift is a lightweight, high-performance photo organization tool designed to turn cluttered image directories into structured libraries. Built for speed and precision, it allows users to rapidly preview, categorize, and move batches of photos with minimal friction.
 
+# Development
+The development of this app is on hold because I'm in the middle of studying and an internship. Be patient and happy coding.
+
 # 🚀 Features
 Lightning-Fast Sifting: Navigate through thousands of images with zero lag.
 
